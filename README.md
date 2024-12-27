@@ -1,6 +1,7 @@
 # LLD-preparation
 
 - [Y] ➤ Design a Employee Management System
+- [Y] ➤ Design a Restaurant Management System : https://leetcode.com/discuss/interview-experience/5470072/Flipkart-or-SDE-2-(2.5-years-exp)-or-June-2024-or-Passed/
 - [ ] ➤ Design a Parking Lot System
 - [ ] ⁠➤ Design a Vending Machine
 - [ ] ⁠⁠➤ Design a Library Management System
@@ -20,3 +21,6 @@
 - [ ]  Social media apps like Twitter: https://lnkd.in/guParNhY 
 - [ ] Online document editor like Google Docs: https://lnkd.in/gBvztEqV 
 
+
+
+https://leetcode.com/discuss/general-discussion/969327/Graph-Algorithms-One-Place-or-Dijkstra-or-Bellman-Ford-or-Floyd-Warshall-or-Prims-or-Kruskals-or-DSU 
